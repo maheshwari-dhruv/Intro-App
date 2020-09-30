@@ -1,4 +1,4 @@
-# intro_app
+# intro_app - A Simple ID Card Application Made Using Flutter
 
 A new Flutter project.
 
